@@ -18,7 +18,7 @@ export const Navbar = () => {
       <a href="https://www.instagram.com/raviiii_k/" target="_blank" rel="noopener noreferrer" className='hover:text-pink-500 transition-colors duration-300'>
         <FaInstagram />
       </a>
-      <a href="https://x.com/swapna_scorpion" target="_blank" rel="noopener noreferrer" className='hover:text-blue-400 transition-colors duration-300'>
+      <a href="https://x.com/RaviKumar135583?t=qwuy3br3FeVHEDJcZjIkPw&s=09" target="_blank" rel="noopener noreferrer" className='hover:text-blue-400 transition-colors duration-300'>
         <FaTwitterSquare />
       </a>
         </div> 
